@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e52e1aa6.css",
-    "main.js": "/static/js/main.04a29727.js",
-    "static/js/787.7636d92e.chunk.js": "/static/js/787.7636d92e.chunk.js",
-    "index.html": "/index.html",
-    "main.e52e1aa6.css.map": "/static/css/main.e52e1aa6.css.map",
-    "main.04a29727.js.map": "/static/js/main.04a29727.js.map",
-    "787.7636d92e.chunk.js.map": "/static/js/787.7636d92e.chunk.js.map"
+    "main.css": "/AlphaSightsChallenge/static/css/main.e52e1aa6.css",
+    "main.js": "/AlphaSightsChallenge/static/js/main.a24dfbfa.js",
+    "static/js/787.7636d92e.chunk.js": "/AlphaSightsChallenge/static/js/787.7636d92e.chunk.js",
+    "index.html": "/AlphaSightsChallenge/index.html",
+    "main.e52e1aa6.css.map": "/AlphaSightsChallenge/static/css/main.e52e1aa6.css.map",
+    "main.a24dfbfa.js.map": "/AlphaSightsChallenge/static/js/main.a24dfbfa.js.map",
+    "787.7636d92e.chunk.js.map": "/AlphaSightsChallenge/static/js/787.7636d92e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e52e1aa6.css",
-    "static/js/main.04a29727.js"
+    "static/js/main.a24dfbfa.js"
   ]
 }
